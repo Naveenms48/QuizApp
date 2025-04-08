@@ -1,0 +1,20 @@
+[
+    {
+        "id" : 1,
+        "question" : "Who is father of React?",
+        "options" : ["John","Robert","Jordan Walke","Djarne Stroustep"],
+        "correctOpt" : "Jordan Walke"
+},
+{
+    "id" : 2,
+    "question" : "Which year React was implemented?",
+    "options" : [2011,2013,2017,2020],
+    "correctOpt" : 2013
+},
+{
+    "id" : 3,
+    "question" : "Which language is React?",
+    "options" : ["Front-end","Back-end","Programming","TypeScript"],
+    "correctOpt" : "Front-end"
+}
+]
